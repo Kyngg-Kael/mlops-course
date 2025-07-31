@@ -1,0 +1,4 @@
+name: ejemplo-mlflow
+entry_points:
+  main:
+    command: "python train.py"
